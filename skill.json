@@ -1,0 +1,15 @@
+{
+  "name": "genpark-threshold-bls-signature-aggregation-skill",
+  "version": "1.0.0",
+  "description": "Threshold BLS signature aggregation engine combining threshold shares via Lagrange polynomial coefficient interpolation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "threshold-signatures",
+    "bls-signatures",
+    "lagrange-interpolation",
+    "multi-party-computation"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
